@@ -1,2 +1,4 @@
-# turingTapeTest
-Program to test my skills with an extremely basic compiler for an extremely basic language inspired by a video from Adam McDaniel on youtube
+# Turing Tape Test
+Program to test my skills by making a simple "Turing Tape" computer inspired by "Compilers, How They Work, And Writing Them Form Scratch" from Adam McDaniel on youtube
+### Future Changes
+I plan on adding a simple loop command, cli input for tape, and command for cli input of values
